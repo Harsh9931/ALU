@@ -31,4 +31,6 @@ The 4-bit ALU efficiently performs basic arithmetic and logical operations using
 
 # TESTBENCH AND SIMULATION
 
- 
+ ![Image](https://github.com/user-attachments/assets/ad1f0328-4ad0-4848-9d9a-540ef5614332)
+
+![Image](https://github.com/user-attachments/assets/cffa5a1f-c7ed-47ee-b74c-95492a4e687c)
