@@ -1,16 +1,5 @@
 # ALU
 
-*COMPANY NAME* : CODTECH IT SOLUTION
-
-*NAME* : HARSH PAWAR
-
-*INTERN ID*  : CT08IQU
-
-*DOMAIN* : VLSI
-
-*BATCH DURATION* : January 5th, 2025 to February 5th, 2025
-
-*MENTOR NAME* : NEELA SANTOSH
 
 # DESCRIPTION 
   An Arithmetic Logic Unit (ALU) is a fundamental component of a CPU that performs arithmetic and logical operations. This 4-bit ALU is implemented in Verilog and supports five basic operations:
